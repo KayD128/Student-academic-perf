@@ -37,7 +37,7 @@ sleep_hours - how does it affect drop out?
 dropout - 1= dropout, 0 = enrolled or graduated
 
 
-## Objctives
+## Objectives
 Binary Classification - Predict dropout (0 or 1)
 Early Warning System - Identify at-risk students early
 Fairness Analysis - Does the model perform equally across income levels, gender, and first-generation status?
@@ -46,5 +46,5 @@ Subgroup Analysis - How does dropout risk vary by course type and study mode?
 Threshold Optimization - Tune for recall (catching all dropouts) vs precision
 
 
-#Recommended Models
-Logistic Regression · Random Forest · XGBoost · LightGBM · CatBoost · Neural Networks
+## Recommended Models
+- Logistic Regression · Random Forest · XGBoost · LightGBM · CatBoost · Neural Networks
